@@ -1,0 +1,7 @@
+[package]
+name = "random"
+version = "0.1.0"
+authors = ["Kyle <kyle.mcfar1291@gmail.com>"]
+
+[dependencies]
+rand = "*"
